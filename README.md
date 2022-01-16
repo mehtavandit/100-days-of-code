@@ -1,4 +1,4 @@
-# 100-days-of-code
+
 <h1 align="center">
   <a href="#"><img src="https://training.talkpython.fm/static/course_images/100days-course.png" width="200"></a>
   <br>
