@@ -12,3 +12,4 @@
 ## Snake Game Part 2
 - Imported the time module for better understanding of the turtle movements
 - Used tracer() and update() functions of screen module for better animation controls
+- Added a for loop so that the tail of the snake follows the head 
