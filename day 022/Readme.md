@@ -3,6 +3,9 @@
   <br>
 </h1>
 
+## Objective
+- The aim is to hit the ball so that it goes over the net and bounces on the opponent's half of the table in such a way that the opponent cannot reach it or return it correctly.
+
 ## main.py
 - Initialize the screen of height 600px and width 800px, having background color black
 - Checks the collision of the ball with top and bottom of the screen
