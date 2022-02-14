@@ -2,6 +2,7 @@
     100 Days of Code: Day 24
   <br>
 </h1>
+
 ## Objective
 - The goal of this project is to learn how to work with files.
 
