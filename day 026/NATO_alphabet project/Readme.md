@@ -6,3 +6,6 @@
 - As an input a word from a user in taken, and a list is generated as a output
 - Example:- input:- "Hello"
             output:- ['Hotel', 'Echo', 'Lima', 'Lima', 'Oscar']
+
+## nato.csv
+- Contains a list in which a word corresponding to each and every alphabet is written.
