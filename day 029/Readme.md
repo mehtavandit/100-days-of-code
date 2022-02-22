@@ -4,8 +4,7 @@
 </h1>
 
 <h1 align="center">
-  <a href="#"><img src="https://imgur.com/o5LcQK5" alt="Logo of Program" width="200"></a>
-</h1>
+  <a href="https://imgur.com/o5LcQK5"><img src="https://i.imgur.com/o5LcQK5.png" title="source: imgur.com" /></a>
 
 ## Objective
 - This project's goal is to create a password management app.
