@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">
-  <a href="#"><img src="https://i.ibb.co/kKhF4n5/runtime-ninjas.png" alt="Logo of Program" width="200"></a>
+  <a href="#"><img src="https://imgur.com/o5LcQK5" alt="Logo of Program" width="200"></a>
 </h1>
 
 ## Objective
