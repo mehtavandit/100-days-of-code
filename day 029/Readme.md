@@ -9,8 +9,6 @@
 ## Objective
 - This project's goal is to create a password management app.
 
-- When you click the add button, all of the information is saved in the data.txt file.
-
 ## main.py
 - A graphical user interface of the minimum possible size is constructed, with a canvas size of 200 × 200 in which a logo is inserted.
 - There are three types of tkinter widgets used: - Label, Entry, and Button
