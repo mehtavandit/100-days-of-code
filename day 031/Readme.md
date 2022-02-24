@@ -10,3 +10,6 @@
 
 ## Objective
 - This project's goal is to build a flash card game that kids can use to learn any new language.
+
+## main.py
+- A graphical user interface is constructed using tkinter, with a canvas size of 526 × 800 in which the words will be displayed. 
