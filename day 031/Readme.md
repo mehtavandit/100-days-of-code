@@ -19,3 +19,11 @@
 - If the user presses the cross button, the next French term will appear on the screen and the three-second countdown will begin again.
 - If the user clicks the checkmark button, the French term shown on the screen is removed from the dataset.
 - When the game is finished, a new dataset titled "words to learn.csv" will be produced that contains the words that the user did not know.
+
+## Data Folder
+- This folder contains two datasets: "french_words.csv" and "words_to_learn.csv"
+- When a player plays the game for the first time, "french words.csv" is utilized as an initial dataset.
+- The file "words to learn.csv" includes the words that the user did not know.
+
+## Images Folder
+- This folder includes all of the images used in this project.
