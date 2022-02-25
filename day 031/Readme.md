@@ -13,3 +13,5 @@
 
 ## main.py
 - A graphical user interface is constructed using tkinter, with a canvas size of 526 × 800 in which the words will be displayed. 
+- When the user presses the play button, a window with a French term appears on the screen.
+- The user will be given three seconds to estimate the answer, and the answer to that French term will be revealed on the screen in English language after three seconds.
