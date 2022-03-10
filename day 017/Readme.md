@@ -18,7 +18,7 @@
 - When the user inputs the response, the function check_answer() evaluates whether or not the answer is correct.
 - If the answer is correct, the score is increased by one and the message "You got it right!" appears on the screen.
 - If the response is incorrect, the message "That wrong." is shown on the screen.
--
+
 ## data.py
 - This file contains all the 10 questions and answers.
 
