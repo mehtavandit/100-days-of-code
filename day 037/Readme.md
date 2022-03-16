@@ -12,4 +12,4 @@
 - When a new user is registered, a graph with a unique id is generated to monitor the person's distinct habit.
 - Using the post() method, a value corresponding to a certain date in the graph can be inserted.
 - The put() function of the request module can be used to update the value entered.
-- 
+- A value can be erased by using the delete() function in the request module.
