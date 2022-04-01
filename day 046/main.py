@@ -17,8 +17,8 @@ for song in songs:
     songs_list.append(song.get_text().strip())
 
 # Spotify Authentication is done (Refer to Spotify documentation)
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope="playlist-modify-private", redirect_uri="https://example.com/", client_id="314d2a53ee7a4ecab9519f5bd218aa08",
-                     client_secret="e2a92980ce9848e998e721d644effe89", show_dialog=True, cache_path="token.txt"))
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope="playlist-modify-private", redirect_uri="https://example.com/", client_id="*****************************",
+                     client_secret="***********************", show_dialog=True, cache_path="token.txt"))
 user_id = sp.current_user()["id"]
 
 
