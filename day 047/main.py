@@ -22,6 +22,6 @@ if float(price_in_digit)<370.000:
         connection.starttls()
         connection.login(user=my_email, password=my_password)
         connection.sendmail(from_addr=my_email,
-                            to_addrs="mehtavandit303@gmail.com",
+                            to_addrs="***********",
                             msg=f"Subject:It time to do some shoping\n\n The prices of your laptop has come down")
         #print("sent")
